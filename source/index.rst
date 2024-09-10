@@ -51,6 +51,8 @@ Download and Install Hadoop
 Configure Hadoop
 ================
 
+These file can be find in /opt/hadoop/etc/hadoop/
+
 1. **core-site.xml**:
 
    .. code-block:: xml
